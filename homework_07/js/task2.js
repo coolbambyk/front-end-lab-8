@@ -49,3 +49,6 @@ if(access) {
     }
 
 } 
+else {
+                console.log("You did not become a millionaire");
+            }
